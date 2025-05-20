@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@dr-empire] (https://dr-empire.github.io/short/)
+- 👋 Hi, I’m ['@dr-empire'] (https://dr-empire.github.io/short/)
 - 👀 I’m interested in all things media psychology and communication research, particularly gender, political participation, and social media.
 - 🌱 I’m always expanding my R skills and learning R markdown
 - 💞️ I’m looking to collaborate on research somehow connected to my area.
